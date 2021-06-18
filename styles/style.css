@@ -1,0 +1,19 @@
+.card{
+    background: orange;
+}
+
+.active{
+    background: green;
+}
+.todo {
+    font-size: 30px;
+    background: rgb(198, 196, 226);
+    text-align: center;
+}
+.work {
+   width: 30%;
+    margin-left: 30%; 
+    margin-top: 10%;
+    box-sizing: border-box;
+    /* text-align: center; */
+}
